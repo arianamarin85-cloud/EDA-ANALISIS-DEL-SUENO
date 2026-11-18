@@ -6,7 +6,7 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4c72b0)
 ![Status](https://img.shields.io/badge/Estado-Completado-success)
 
-<img width="2640" height="880" alt="image_sueno png" src="https://github.com/user-attachments/assets/acff3f4e-85b2-4648-a857-55fb34277ff7" />
+![foto](EDA-ANALISIS-DEL-SUENO/image_sueno.jpg)
 
 ## Resumen ejecutivo
 
