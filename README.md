@@ -19,35 +19,50 @@ Tras analizar los **374 registros** y contrastar las **6 hipótesis planteadas**
 
 - ✅ **H1 — El estrés presenta la mayor asociación negativa con la calidad del descanso (Confirmada):** Existe una fuerte correlación negativa (**-0.90**) entre el nivel de estrés y la calidad del sueño. Quienes reportan estrés bajo (3–5 puntos) alcanzan una calidad media de **7.67 a 8.97**, mientras que en el nivel máximo observado (8 puntos) desciende hasta **5.86**.
 
-<img src="imagen/correlacion_estres_calidad_sueno.jpg" alt="Correlación entre estrés y calidad del sueño" width="600">
+<p align="center">
+  <img src="imagen/correlacion_estres_calidad_sueno.jpg" alt="Correlación entre estrés y calidad del sueño" width="500">
+</p>
 
 - ❌ **H2 — El género no marca diferencias prácticas relevantes en la duración (Descartada):** Aunque las mujeres promedian ligeramente más horas que los hombres (**7.23 h** vs. **7.04 h**, apenas ~11 minutos de diferencia) y presentan mayor dispersión (desviación estándar: **0.88** vs. **0.69**), ambos grupos comparten exactamente la misma mediana (**7.20 h**) y sus distribuciones se solapan ampliamente.
 
-  ![Duración del sueño por género](imagen/duracion_sueno_genero.jpg)
-  ![Distribución de horas de sueño por género](imagen/distribucion_horas_sueno_genero.jpg)
+<table align="center">
+  <tr>
+    <td><img src="imagen/duracion_sueno_genero.jpg" alt="Duración del sueño por género" width="400"></td>
+    <td><img src="imagen/distribucion_horas_sueno_genero.jpg" alt="Distribución de horas de sueño por género" width="400"></td>
+  </tr>
+</table>
 
 
 - ✅ **H3 — El exceso de peso se asocia con un deterioro de la calidad del sueño (Confirmada):** La puntuación media de calidad del descanso desciende progresivamente conforme aumenta la categoría de IMC: **7.64** en peso normal, **6.90** en sobrepeso y **6.40** en obesidad.
 
-  ![Relación entre IMC y calidad del sueño](imagen/relacion_imc_calidad_sueno.jpg)
-  ![Media de calidad del sueño según IMC](imagen/media_calidad_sueno_imc.jpg)
-
+ <table align="center">
+  <tr>
+    <td><img src="imagen/relacion_imc_calidad_sueno.jpg" alt="Relación entre IMC y calidad del sueño" width="400"></td>
+    <td><img src="imagen/media_calidad_sueno_imc.jpg" alt="Media de calidad del sueño según IMC" width="400"></td>
+  </tr>
+</table>
 
 - ✅ **H4 — Fuerte asociación entre IMC y trastornos del sueño en ambas direcciones (Confirmada):**
   - *De trastorno a IMC:* Aproximadamente 9 de cada 10 personas con insomnio (**88.3%**) o apnea del sueño (**91.0%**) presentan sobrepeso u obesidad, frente a solo el **8.7%** en personas sin trastornos.
   - *De IMC a trastorno:* El **87.1%** de los casos con sobrepeso y el **100%** de los registros con obesidad presentan algún trastorno diagnosticado, mientras que el **92.6%** de quienes tienen peso normal duermen sin patologías.
 
-  ![Trastornos del sueño según IMC](imagen/trastornos_sueno_imc.jpg)
+<p align="center">
+  <img src="imagen/trastornos_sueno_imc.jpg" alt="Trastornos del sueño según IMC" width="500">
+</p>
 
 
 - ✅ **H5 — El equilibrio estrés-descanso varía según la ocupación (Confirmada):** Perfiles de alta exigencia como *Salesperson* (estrés **7.00**; sueño **6.40 h**) y *Doctor* (estrés **6.73**; sueño **6.97 h**) muestran un escenario más desfavorable frente a roles como *Engineer* (estrés **3.89**; sueño **7.99 h**) o *Accountant* (estrés **4.59**; sueño **7.11 h**).
 
-  ![Estrés y sueño por ocupación](imagen/estres_sueno_ocupacion.jpg)
+  <p align="center">
+  <img src="imagen/estres_sueno_ocupacion.jpg" alt="Estrés y sueño por ocupación" width="850">
+</p>
 
 
 - ✅ **H6 — Los adultos jóvenes soportan mayor estrés y peor descanso (Confirmada):** El tramo de **27 a 35 años** concentra el peor escenario (estrés medio de **6.57**, calidad de **6.50** y **6.85 h** de sueño). A partir de los **46+ años**, el estrés desciende a **4.75** y el descanso mejora hasta las **7.50 h** (calidad media de **7.96**).
 
-  ![Estrés y sueño por grupo de edad](imagen/estres_sueno_grupo_edad.jpg)
+     <p align="center">
+      <img src="imagen/estres_sueno_grupo_edad.jpg" alt="Estrés y sueño por grupo de edad" width="850">
+    </p>
 
 
 ## Tabla de contenidos
