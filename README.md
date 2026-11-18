@@ -19,8 +19,7 @@ Tras analizar los **374 registros** y contrastar las **6 hipótesis planteadas**
 
 - ✅ **H1 — El estrés presenta la mayor asociación negativa con la calidad del descanso (Confirmada):** Existe una fuerte correlación negativa (**-0.90**) entre el nivel de estrés y la calidad del sueño. Quienes reportan estrés bajo (3–5 puntos) alcanzan una calidad media de **7.67 a 8.97**, mientras que en el nivel máximo observado (8 puntos) desciende hasta **5.86**.
 
-  ![Correlación entre estrés y calidad del sueño](imagen/correlacion_estres_calidad_sueno.jpg)
-
+<img src="imagen/correlacion_estres_calidad_sueno.jpg" alt="Correlación entre estrés y calidad del sueño" width="600">
 
 - ❌ **H2 — El género no marca diferencias prácticas relevantes en la duración (Descartada):** Aunque las mujeres promedian ligeramente más horas que los hombres (**7.23 h** vs. **7.04 h**, apenas ~11 minutos de diferencia) y presentan mayor dispersión (desviación estándar: **0.88** vs. **0.69**), ambos grupos comparten exactamente la misma mediana (**7.20 h**) y sus distribuciones se solapan ampliamente.
 
